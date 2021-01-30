@@ -6,6 +6,10 @@
 *.user
 *.sln.docstates
 
+## Remove a folder?
+basic_movement/
+simple_dialog_box/
+
 # Build results
 
 # Roslyn cache directories
